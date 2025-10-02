@@ -1,7 +1,5 @@
-# Projet-final
-Projet final - Formation 
-## Déploiement du FTTH en Guadeloupe 
-## Analyse des retards et recommandations
+
+# Déploiement du FTTH en Guadeloupe - Analyse des retards et recommandations
 
 ## Objectif
 - Suivre l’évolution du déploiement FTTH en Guadeloupe sur 2018–2025,
